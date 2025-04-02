@@ -11,6 +11,15 @@ Além da carga horária do meu curso, estou constantemente fazendo cursos adicio
 - Aprendizado contínuo
 Sinta-se à vontade para explorar meus projetos e contribuir! Estou sempre aberto a colaborações e novas ideias. Vamos juntos construir algo incrível!
 
+Tecnologias Aplicadas
+Front-end: HTML, CSS, JavaScript;
+
+Back-end: Node.js;
+
+Banco de Dados: MySQL, SQLite;
+
+Ferramentas: Git, GitHub, VS Code;
+
 📫 Contato
 
 Você pode me encontrar nas redes sociais ou entrar em contato por e-mail:
